@@ -1,4 +1,4 @@
-# Projects-for-iOS
+# iOS-SliderMenu
 - 通过SliderMenuView提供的类方法初始化即可
 ```
 /**
